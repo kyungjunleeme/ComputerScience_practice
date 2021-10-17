@@ -8,3 +8,6 @@ Redis를 도입하기 위해서 cache를 공부하게 되었고, cache를 공부
 
 
 페이지네이션 , cursor
+
+
+# git은 평생 동반자
