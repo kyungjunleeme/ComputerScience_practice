@@ -1,4 +1,7 @@
 # ComputerScience_practice
+# https://tecoble.techcourse.co.kr/
+# https://github.com/woowacourse/
+# https://github.com/woowacourse-teams
 
 # 211017
 Redis를 도입하기 위해서 cache를 공부하게 되었고, cache를 공부하다보니 collection에서 자료구조(list, set, hash)를 공부하게 되었고, hash를 공부하다 보니 -> Big O 표기법을 공부하게 되었다.
@@ -13,3 +16,6 @@ Redis를 도입하기 위해서 cache를 공부하게 되었고, cache를 공부
 # git은 평생 동반자
 
 https://techblog.woowahan.com/2553/
+
+
+# 
