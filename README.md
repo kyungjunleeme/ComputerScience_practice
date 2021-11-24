@@ -1,3 +1,14 @@
+# https://brunch.co.kr/@insuk/4
+# https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947
+
+ 위 두글 필수
+ 
+ # 출퇴근 시간에 부족한 computer science 기초를 보충한다.
+ # 2022년 정보처리기사 1회차에 정보처리기사를 취둑한다.
+ 
+
+
+
 # ComputerScience_practice
 # https://tecoble.techcourse.co.kr/
 # https://github.com/woowacourse/
