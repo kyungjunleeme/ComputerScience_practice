@@ -1,3 +1,6 @@
+# microservice architecture
+http://channy.creation.net/articles/microservices-by-james_lewes-martin_fowler#.WbgZINNJbUo
+
 # https://www.youtube.com/watch?v=DQ_OyShtbB8
 # https://brunch.co.kr/@insuk/4
 # https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947
