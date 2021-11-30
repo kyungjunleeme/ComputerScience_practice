@@ -5,8 +5,18 @@
  위 두글 필수
  
  # 출퇴근 시간에 부족한 computer science 기초를 보충한다.
- # 2022년 정보처리기사 1회차에 정보처리기사를 취둑한다.
+ # 2022년 정보처리기사 1회차에 정보처리기사를 취둑한다. 나와의 약속
+ # https://github.com/apple/GCGC
+ # garbage collection
+ # https://towardsdatascience.com/memory-management-and-garbage-collection-in-python-c1cb51d1612c
  
+
+
+# 
+
+
+
+
 
 
 
