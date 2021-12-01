@@ -6,6 +6,8 @@ http://channy.creation.net/articles/microservices-by-james_lewes-martin_fowler#.
 # https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947
 
  위 두글 필수
+ # https://shrtorznzl.tistory.com/82
+ 
  
  # 출퇴근 시간에 부족한 computer science 기초를 보충한다.
  # 2022년 정보처리기사 1회차에 정보처리기사를 취둑한다. 나와의 약속
