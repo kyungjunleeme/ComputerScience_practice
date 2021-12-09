@@ -1,3 +1,4 @@
+# https://velog.io/@hyounglee/for-newbies
 # https://github.com/Kraken-Addicts
 
 HTTP 
