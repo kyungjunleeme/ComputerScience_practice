@@ -1,3 +1,6 @@
+# CPU의 역할
+https://www.youtube.com/watch?v=Fg00LN30Ezg
+
 # https://www.youtube.com/watch?v=UXH5C-QgimE&list=PLE0hRBClSk5KnDMdBR6o5CtFJ_9o7Po2v
 제목은 자극적이지만, 내용은 알차네요.
 
