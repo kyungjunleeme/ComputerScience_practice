@@ -1,3 +1,7 @@
+# https://gyoogle.dev/blog/
+
+
+
 # CPU의 역할
 https://www.youtube.com/watch?v=Fg00LN30Ezg
 
