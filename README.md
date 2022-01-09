@@ -1,4 +1,14 @@
 # https://gyoogle.dev/blog/
+# https://github.com/ossu/computer-science
+# 현석이가 알려준 내용
+https://online.stanford.edu/search-catalog?type=All&topics[1047]=1047&topics[1057]=1057&topics[1064]=1064&topics[1073]=1073&page=0
+https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience&spec=operatingsystems
+
+1. Unix 시스템 프로그래밍
+2. 알고리즘 및 자료구조
+3. 운영체제
+
+해당 
 
 
 
