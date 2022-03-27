@@ -1,3 +1,23 @@
+유료 강의여도 아깝지 않은, IT 관련(네트워크 중심) 강의가 올라온 Youtube 채널을 소개드립니다.
+아래 영상들 한번 보시고, 관심있다면 꼭 채널 구독해보세요!
+
+1. 널널한 개발자 TV : 개발자/인프라 엔지니에 모두에게 강력 추천, 대부분 10분 정도 영상 길이의 배려!
+개발자이신 강사분이 네트워크와 보안에도 풍부한 지식을 가지고 있어서, 개발자나 인프라엔지니어 모두에게 도움이 됩니다.
+
+네트워크 기초 이론 : 기초 이론과 네트워크 장비 관련 이야기에 웹 전반(Web-Was-DB, API)까지 Deep Dive 하지만, 이해하기 쉽게 설명합니다. 가장 추천하는 재생목록입니다
+https://www.youtube.com/watch?v=k1gyh9BlOT8&list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy&ab_channel=널널한개발자TV
+
+암호기술에 대한 최소 이론 : 개발자분들도 암호화를 위한 키, 대칭키, PKI 지식이 필수인데, 핵심 원리를 쉽게 설명합니다.
+https://www.youtube.com/watch?v=HtETF-NL81A&list=PLXvgR_grOs1CakfdJgCy_Df14U3DqRuPk&ab_channel=널널한개발자TV
+
+2. Networking Class by CCIE : 네트워크 엔지니어분에게 추천, 실제 현업 엔지니어의 업무 관련 지식!
+
+네트워크 망 설계나 아키텍처 및 업무 고려사항, IPSec, MPLS, AWS 네트워킹 등 실무 네트워크 지식들이 가득합니다.
+https://www.youtube.com/c/NetworkingClass/videos
+
+
+
+
 # https://gyoogle.dev/blog/
 # https://github.com/ossu/computer-science
 # 현석이가 알려준 내용
