@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=-uleG_Vecis&t=358s
+
 유료 강의여도 아깝지 않은, IT 관련(네트워크 중심) 강의가 올라온 Youtube 채널을 소개드립니다.
 아래 영상들 한번 보시고, 관심있다면 꼭 채널 구독해보세요!
 
