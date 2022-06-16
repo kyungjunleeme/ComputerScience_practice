@@ -1,4 +1,6 @@
 https://docs.python.org/release/3.0.1/whatsnew/3.0.html#text-vs-data-instead-of-unicode-vs-8-bit
+https://docs.python.org/3/whatsnew/3.0.html#text-vs-data-instead-of-unicode-vs-8-bit
+
 https://www.youtube.com/watch?v=-uleG_Vecis&t=358s
 
 유료 강의여도 아깝지 않은, IT 관련(네트워크 중심) 강의가 올라온 Youtube 채널을 소개드립니다.
